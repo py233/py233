@@ -1,6 +1,6 @@
 ### 这是py的github 👋
 
-个人独立blog：https://py233.net
+blog：https://py233.net
 
 
 find me：
