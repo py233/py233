@@ -1,4 +1,4 @@
-### 这是py的github 👋
+### This is py‘s github 👋
 
 blog：https://py233.net
 
