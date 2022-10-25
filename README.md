@@ -1,12 +1,12 @@
 ### This is py‘s github 👋
 
-my blog：<a href="https://py233.net">某five的daily</a>
+my blog：<a href="https://py233.net">most daily</a>
 
 find me：
 
-Telegram：<a href="https://t.me/py233">@py233</a>
+Telegram：<a href="https://t.me/py233">TG py（@py233）</a>
 
-Twitter: <a href="https://twitter.com/233py">@233py</a>
+Twitter: <a href="https://twitter.com/233py">TW py（@233py）</a>
 
 PGP:<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/684FE2A2084A48410DBA48063DB8FABB5DBD88F5">3DB8 FABB 5DBD 88F5</a>
 
