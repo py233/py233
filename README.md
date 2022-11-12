@@ -1,6 +1,6 @@
 ### This is py‘s github 👋
 
-my blog：<a href="https://py233.net">daily</a>
+my blog：<a href="https://py233.net">py233.net</a>
 
 find me：
 
