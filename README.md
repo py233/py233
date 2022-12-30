@@ -8,6 +8,8 @@ Telegram：<a href="https://t.me/py233">TG py（@py233）</a>
 
 Twitter: <a href="https://twitter.com/233py">TW py（@233py）</a>
 
+Mastodon：<a href="https://mastodon.social/@py233">py_qwq（@py233）</a>
+
 PGP:<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/684FE2A2084A48410DBA48063DB8FABB5DBD88F5">3DB8 FABB 5DBD 88F5</a>
 
 
