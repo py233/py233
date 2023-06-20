@@ -2,7 +2,7 @@
 
 my blog：<a href="https://py233.net">py233.net</a>
 
-find me：
+find me
 
 Telegram：<a href="https://t.me/py233">TG py（@py233）</a>
 
