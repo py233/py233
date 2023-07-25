@@ -16,11 +16,9 @@ To send encrypted messages, use my PGP public key:
 
 `curl https://pgp.py233.net | gpg --import`    
 
-----   
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=py233&show_icons=true&hide_border=true">
 
-----   
 
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/py233/py233/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />              
 
