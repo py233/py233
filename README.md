@@ -16,6 +16,6 @@ To send encrypted messages, use my PGP public key:
 
 `curl https://pgp.py233.net | gpg --import`    
 
-<div align="center"><img src="https://raw.githubusercontent.com/py233/py233/main/assets/github-contribution-grid-snake.svg" ></div>
+![](https://raw.githubusercontent.com/py233/py233/main/assets/github-contribution-grid-snake.svg)              
 
 
