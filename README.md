@@ -12,6 +12,10 @@ Mastodon：<a href="https://mastodon.social/@py233">py_qwq（@py233）</a>
 
 PGP：<a href="https://pgp.py233.net/">3DB8 FABB 5DBD 88F5</a>
 
+To send encrypted messages, use my PGP public key:   
+
+`curl https://pgp.py233.net | gpg --import`
+
 
 <!--
 **py233/py233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
