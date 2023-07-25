@@ -3,16 +3,10 @@
   <div align="center">
     <a href="https://py233.net/"><img src="https://img.shields.io/badge/Website-Blog-blue" /></a>&emsp;
     <a href="https://twitter.com/py233/"><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
+    <a href="https://mastodon.social/@py233/"><img src="https://img.shields.io/badge/Mastodon-Mastodon-blue" /></a>&emsp;
+    <a href="https://t.me/py233/"><img src="https://img.shields.io/badge/Telegram-Telegram-blue" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=py233&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-
-find me
-
-Telegram：<a href="https://t.me/py233">TG py（@py233）</a>
-
-Twitter: <a href="https://twitter.com/233py">TW py（@233py）</a>
-
-Mastodon：<a href="https://mastodon.social/@py233">py_qwq（@py233）</a>
 
 PGP：<a href="https://pgp.py233.net/">3DB8 FABB 5DBD 88F5</a>
 
