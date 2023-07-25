@@ -1,6 +1,10 @@
-### This is py‘s github 👋
+### Hi everyone 👋
 
-my blog：<a href="https://py233.net">py233.net</a>
+  <div align="center">
+    <a href="https://py233.net/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://twitter.com/py233/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>
+    <img src="https://komarev.com/ghpvc/?username=py233&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
 
 find me
 
@@ -17,9 +21,7 @@ To send encrypted messages, use my PGP public key:
 `curl https://pgp.py233.net | gpg --import`    
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=py233&show_icons=true&hide_border=true">
-
-<img src="https://komarev.com/ghpvc/?username=py233&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=py233&show_icons=true&hide_border=true">   
 
 <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/py233/py233/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />              
 
