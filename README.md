@@ -10,7 +10,7 @@
 
 PGP：<a href="https://pgp.py233.net/">3DB8 FABB 5DBD 88F5</a>
 
->To send encrypted messages, use my PGP public key:   
+To send encrypted messages, use my PGP public key:   
 
 `curl https://pgp.py233.net | gpg --import`    
 
