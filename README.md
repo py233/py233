@@ -1,4 +1,4 @@
-### Hi everyone 👋
+### Hi there 👋
 
   <div align="center">
     <a href="https://py233.net/"><img src="https://img.shields.io/badge/Website-Blog-blue" /></a>&emsp;
