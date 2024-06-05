@@ -1,6 +1,6 @@
 
   <div align="center">
-    <a href="https://py233.net/"><img src="https://img.shields.io/badge/Page-Navigation-blue" /></a>&emsp;
+    <a href="https://py233.net/"><img src="https://img.shields.io/badge/Py's-Blog-blue" /></a>&emsp;
     <a href="https://x.com/233py/"><img src="https://img.shields.io/badge/x.com-@233py-000000?labelColor=555&logo=x&logoColor=fff&style=flat" /></a>&emsp;
     <a href="https://t.me/py233/"><img src="https://img.shields.io/badge/t.me-@py233-0088CC?labelColor=555&logo=telegram&logoColor=fff&style=flat" /></a>&emsp;
   </div>
