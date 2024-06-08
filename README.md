@@ -11,4 +11,5 @@ To send encrypted messages, use my PGP public key:
 `curl https://pgp.py233.net | gpg --import`    
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100vw; height: calc(100vw * 1378 / 2543); max-height: 100vh; background: url('https://github.com/py233/py233/blob/main/ransom.png?raw=true') no-repeat center center; background-size: contain; opacity: 0.5;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit: cover; background: url('https://github.com/py233/py233/blob/main/ransom.png?raw=true') no-repeat center center; background-size: cover; opacity: 0.5;]{x0000}$}
+
